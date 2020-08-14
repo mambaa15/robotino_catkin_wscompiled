@@ -1,0 +1,8 @@
+prefix=/home/rosvm/robotino_ws_luca/install
+
+Name: robotino_rest_node
+Description: Description of robotino_rest_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

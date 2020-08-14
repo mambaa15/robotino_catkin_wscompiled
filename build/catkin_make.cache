@@ -1,0 +1,2 @@
+ros/robotino_description:ros/robotino_msgs:ros/robotino_node:ros/robotino_rest_node
+-DCATKIN_DEVEL_PREFIX=/home/rosvm/robotino_ws_luca/devel -DCMAKE_INSTALL_PREFIX=/home/rosvm/robotino_ws_luca/install -G Unix Makefiles
